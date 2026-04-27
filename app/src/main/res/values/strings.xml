@@ -18,4 +18,6 @@
     <string name="label_prenom">Prénom : </string>
     <string name="label_email">Email : </string>
     <string name="label_genre">Genre : </string>
+    <string name="genre_homme">homme</string>
+    <string name="genre_femme">femme</string>
 </resources>

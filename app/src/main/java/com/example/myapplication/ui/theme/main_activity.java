@@ -41,7 +41,7 @@ public class main_activity extends Activity {
                     i.putExtra("prenom", fn);
                     i.putExtra("nom", ln);
                     i.putExtra("email", em);
-                    i.putExtra("genre", men.isChecked() ? "homme" : "femme");
+                    i.putExtra("genre", men.isChecked() ? getString(R.string.genre_homme) : getString(R.string.genre_femme));
                     startActivity(i);
                 }
             }
