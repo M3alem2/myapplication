@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <!-- Form labels and hints -->
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="email">Email</string>
+    <string name="men">Homme</string>
+    <string name="women">Femme</string>
+    <string name="inscription">Inscription</string>
+
+    <!-- Validation message -->
+    <string name="all_fields_required">Tous les champs sont obligatoires</string>
+
+    <!-- Display labels -->
+    <string name="registration_success">Inscription réussie !</string>
+    <string name="label_nom">Nom : </string>
+    <string name="label_prenom">Prénom : </string>
+    <string name="label_email">Email : </string>
+    <string name="label_genre">Genre : </string>
+</resources>
